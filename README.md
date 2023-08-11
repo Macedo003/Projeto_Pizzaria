@@ -8,4 +8,10 @@ Página de Pedidos:
 
 
 Dashboard:
+
 ![image](https://github.com/Macedo003/Projeto_Pizzaria/assets/124840692/ccd1ebb3-c4b5-4e8a-a125-b3ad9046d8c3)
+
+
+Diagrama de Entidades Relacionais:
+
+![image](https://github.com/Macedo003/Projeto_Pizzaria/assets/124840692/dc480c61-db81-4a3c-b81a-cd20f65e88ac)
